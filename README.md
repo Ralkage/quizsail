@@ -20,6 +20,7 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installing and Running
 
 * Clone this repo.
+* Run ```npm i```.
 * Run ```npm start```.
 * Open your browser and enter ```http://localhost:3000/?```
 
